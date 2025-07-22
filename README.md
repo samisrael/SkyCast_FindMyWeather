@@ -284,12 +284,7 @@ button:hover {
 }
 ```
 ## Output:
-![image](./images/s1.png)
-![image](./images/s2.png)
-![image](./images/s3.png)
-![image](./images/s4.png)
-![image](./images/s5.png)
-![image](./images/s6.png)
+
 ![image](./images/s7.png)
 ![image](./images/s8.png)
 ## Result:
